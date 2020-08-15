@@ -22,6 +22,8 @@ public class SampleTest extends BaseClass {
 	public void testCase3() {
 
 		System.out.println("This is testCase3");
+		System.out.println("This is testCase4");
+
 	}
 
 }
